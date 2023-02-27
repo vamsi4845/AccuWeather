@@ -1,5 +1,5 @@
 • Developed a Live Weather Forecast app that provides users with up-to-date weather information for a
-given location
+given location,With dynamic background images that changes according to search input.
 
 • Built using JavaScript, HTML, and CSS
 
